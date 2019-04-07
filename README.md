@@ -1,0 +1,1 @@
+![Logo](https://github.com/GitHandsOnJapan/Repos20190407_A/blob/change-README/logo.PNG?raw=true)
